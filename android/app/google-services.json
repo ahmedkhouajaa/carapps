@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "271437758622",
+    "project_id": "ridercarapp",
+    "storage_bucket": "ridercarapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271437758622:android:d628d3c7afa04b9c80fb8f",
+        "android_client_info": {
+          "package_name": "com.example.carriderahmed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271437758622-ba67vm4n7te2uuetmhkvru282khbkhbf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carriderahmed",
+            "certificate_hash": "3c7f91c6b6838defa8368b75636ad13d1acafc94"
+          }
+        },
+        {
+          "client_id": "271437758622-kbuvom6i8o6ahpv1blv03fc1sd99lfo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqIoGBozsoMP-vdJ6A1VTfNLME5Ly-28M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271437758622-kbuvom6i8o6ahpv1blv03fc1sd99lfo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
